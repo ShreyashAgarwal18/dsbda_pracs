@@ -1,0 +1,4 @@
+INFO User logged in user is Dushyant
+ERROR Database connection failed 7323
+INFO Page loaded successfully Dushyant logged
+WARN Disk space low
